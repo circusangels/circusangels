@@ -1,2 +1,1 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iai8c2er317333qgkmbb8hgai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-![](https://komarev.com/ghpvc/?username=your-github-username)
