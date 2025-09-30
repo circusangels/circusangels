@@ -18,3 +18,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iai8c2er317333qgkmbb8hgai&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ba2626&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+<p align="center">
+  <a href="https://tamanotchi.world/26606c">
+    <img src="https://tamanotchi.world/i2/26606" alt="It's tamaNOTchi! Click to feed!">
+  </a>
+</p>
