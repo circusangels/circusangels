@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/pz401h7rEnAAAAAC/adam-hazbin-hotel-hazbin-hotel.gif" alt="Adam Hazbin Hotel GIF"/>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=circusangels&color=yellow&style=plastic&label=Cutiepies!" alt="Profile views"/>
 </p>
 <p align="center"> Hi! To learn more about me, check out my links! (to be added!) This README is simply for Ponytown information :] </p>
