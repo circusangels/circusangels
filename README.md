@@ -1,1 +1,1 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=iai8c2er317333qgkmbb8hgai&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=ba2626&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+aww shucks my code broke
